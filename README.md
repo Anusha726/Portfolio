@@ -32,8 +32,17 @@ You can view my detailed CV [here](CV.pdf).
 4. [Certificates](#certificates)  
 5. [Connect](#connect)   
 
+## Education
+- **MBA** - **Business Analytics & Marketing**  
+  Dayananda Sagar University (2021 - 2023)
 
-## Connect with me
+- **BSc** - **Computer Science & Mathematics**  
+  Bangalore University (2018 - 2021)
+
+
+
+
+## Connect 
 - [LinkedIn](https://www.linkedin.com/in/anusha-j-b0149b226)  
 
 
