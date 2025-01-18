@@ -42,7 +42,10 @@ You can view my detailed CV [here](CV.pdf).
 ## Certificates
 - **Business Analytics with Excel:Elementary to Advance**: [Link](https://coursera.org/share/6c0371adbc12b8a082e4f1cde5ee97af)
 - **Analyzing Company Performance using Ratios**: [Link](https://coursera.org/share/a13d26b38a276490c51f50ba23027277)
-
+- **Microsoft Power BI Desktop for Business Intelligence”** by Udemy
+- **Python for Data Science and Machine Learning** by Udemy 
+- **MySQL for Data Analytics & Business Intelligence** by Udemy 
+- **Alteryx Designer Core**: [Link](60aaff06-796b-4a78-adc5-42f390dfc93e)
 
 
 
