@@ -30,8 +30,7 @@ You can view my detailed CV [here](CV.pdf).
    - [Power BI](#power-bi)  
 3. [Education](#education)  
 4. [Certificates](#certificates)  
-5. [Connect](#connect)  
-5. [Connect with me](#Connect with me)   
+5. [Connect](#connect)   
 
 
 ## Connect with me
