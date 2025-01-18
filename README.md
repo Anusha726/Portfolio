@@ -24,7 +24,7 @@ You can view my detailed CV [here](CV.pdf).
 ## 📚 Table of Contents  
 
 ## 📚 Table of Contents  
-1. [🌟 About](#about)  
+1. [About](#🌟 about)  
 2. [Portfolio Projects](#portfolio-projects)  
    - [Python](#python)  
    - [SQL](#sql)  
