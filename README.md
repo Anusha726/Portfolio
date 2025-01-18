@@ -22,16 +22,17 @@ Hypothesis Testing, etc.
 You can view my detailed CV [here](CV.pdf).  
 
 ## 📚 Table of Contents  
-[About](#about)
-2. - [Portfolio Projects](Portfilio.md)
-   
-      - [Python](#python)
-      - [SQL](#sql)
-      - [Excel / Google Sheets](#excel-google-sheets)
-      - [Power BI](#power-bi)
-- [Education](education)
-- [Certificates](certificates)
-- [Contact](#connect-with-me) 
+
+## 📚 Table of Contents  
+1. [About](#about)  
+2. [Portfolio Projects](#portfolio-projects)  
+   - [Python](#python)  
+   - [SQL](#sql)  
+   - [Excel / Google Sheets](#excel-google-sheets)  
+   - [Power BI](#power-bi)  
+3. [Education](#education)  
+4. [Certificates](#certificates)  
+5. [Contact](#contact)   
 
 
 ## 📫 Connect with Me
