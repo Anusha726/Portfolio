@@ -45,8 +45,7 @@ You can view my detailed CV [here](CV.pdf).
 - **Microsoft Power BI Desktop for Business Intelligence”** by Udemy
 - **Python for Data Science and Machine Learning** by Udemy 
 - **MySQL for Data Analytics & Business Intelligence** by Udemy 
-- **Alteryx Designer Core**: [Link](anusha-j.7bd9bfde)
-
+- **Alteryx Designer Core**: by Alteryx
 
 
 
