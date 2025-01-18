@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-## 🌟 About
+## About
 ## Hi, I'm Anusha! 👋  
 
 I am a **Data Analyst** with 1.5 years of experience turning complex datasets into actionable insights. With a background in Business Analytics and Computer Science, I specialize in data visualization, predictive analytics, and crafting interactive dashboards that drive impactful decisions.
