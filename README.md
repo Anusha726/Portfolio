@@ -39,6 +39,10 @@ You can view my detailed CV [here](CV.pdf).
 - **BSc** - **Computer Science & Mathematics**  
   Bangalore University (2018 - 2021)
 
+## Certificates
+- **Business Analytics with Excel: Elementary to Advance**: [Link](https://coursera.org/share/6c0371adbc12b8a082e4f1cde5ee97af)
+
+
 
 
 
