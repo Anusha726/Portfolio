@@ -21,6 +21,19 @@ Hypothesis Testing, etc.
 ## 📄 My CV  
 You can view my detailed CV [here](CV.pdf).  
 
+## 📚 Table of Contents  
+1. [Portfolio](Portfilio.md) 
+2. [Portfolio Projects](Portfilio.md)
+   
+      - [Python](#python)
+      - [SQL](#sql)
+      - [Excel / Google Sheets](#excel-google-sheets)
+      - [Power BI](#power-bi)
+- [Education](education)
+- [Certificates](certificates)
+- [Contact](contact) 
+
+
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/anusha-j-b0149b226)  
 
