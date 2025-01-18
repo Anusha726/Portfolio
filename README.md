@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-## 🌟 About
+## About
 ## Hi, I'm Anusha! 👋  
 
 I am a **Data Analyst** with 1.5 years of experience turning complex datasets into actionable insights. With a background in Business Analytics and Computer Science, I specialize in data visualization, predictive analytics, and crafting interactive dashboards that drive impactful decisions.
@@ -8,7 +8,7 @@ I am passionate about uncovering patterns, optimizing processes, and solving rea
 
 When I’m not analyzing data, I enjoy exploring new tools, learning machine learning concepts, and expanding my knowledge to stay ahead in this ever-evolving field.
 
-## 💻 Skills  
+## Skills  
 - **Programming**: Python, SQL  
 - **Visualization Tools**: Power BI, Tableau, Looker  
 - **Data Wrangling**: Excel, Google Sheets, Power Query, Python (Pandas & NumPy), Alteryx. 
@@ -19,12 +19,10 @@ When I’m not analyzing data, I enjoy exploring new tools, learning machine lea
 Hypothesis Testing, etc.
 
 ## 📄 My CV  
-You can view my detailed CV [here](CV.pdf).  
+You can view my detailed CV [here](CV.pdf).   
 
 ## 📚 Table of Contents  
-
-## 📚 Table of Contents  
-1. [About](#🌟 about)  
+1. [About](#about)  
 2. [Portfolio Projects](#portfolio-projects)  
    - [Python](#python)  
    - [SQL](#sql)  
@@ -32,10 +30,10 @@ You can view my detailed CV [here](CV.pdf).
    - [Power BI](#power-bi)  
 3. [Education](#education)  
 4. [Certificates](#certificates)  
-5. [Contact](#contact)   
+5. [Contact](#connect with me)   
 
 
-## 📫 Connect with Me
+## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/anusha-j-b0149b226)  
 
 
