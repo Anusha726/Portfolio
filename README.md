@@ -22,8 +22,8 @@ Hypothesis Testing, etc.
 You can view my detailed CV [here](CV.pdf).  
 
 ## 📚 Table of Contents  
-1. [About]((#About) 
-2. [Portfolio Projects](Portfilio.md)
+1. - [About]((#About) 
+2. - [Portfolio Projects](Portfilio.md)
    
       - [Python](#python)
       - [SQL](#sql)
