@@ -31,10 +31,10 @@ You can view my detailed CV [here](CV.pdf).
       - [Power BI](#power-bi)
 - [Education](education)
 - [Certificates](certificates)
-- [Contact](contact) 
+- [Contact](#connect-with-me) 
 
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anusha-j-b0149b226)  
 
 
