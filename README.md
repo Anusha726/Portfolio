@@ -44,6 +44,7 @@ You can view my detailed CV [here](CV.pdf).
 
 ## Connect 
 - **LinkedIn**: [@Anusha](https://www.linkedin.com/in/anusha-j-b0149b226)
+- **Email**: anushaj228@gmail.com
 
 
 
