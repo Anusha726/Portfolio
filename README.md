@@ -22,7 +22,7 @@ Hypothesis Testing, etc.
 You can view my detailed CV [here](CV.pdf).  
 
 ## 📚 Table of Contents  
-1. [Portfolio](Portfilio.md) 
+1. [Portfolio](README.md) 
 2. [Portfolio Projects](Portfilio.md)
    
       - [Python](#python)
