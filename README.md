@@ -43,9 +43,8 @@ You can view my detailed CV [here](CV.pdf).
 
 
 ## Connect 
-- [LinkedIn](https://www.linkedin.com/in/anusha-j-b0149b226)  
-## 📫 Connect with Me
 - **LinkedIn**: [@Anusha](https://www.linkedin.com/in/anusha-j-b0149b226)
+
 
 
 
