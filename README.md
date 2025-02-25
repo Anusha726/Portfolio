@@ -54,6 +54,28 @@ You can view my detailed CV [here](CV.pdf).
 
 
 
+## Portfolio Projects
+
+In this section I will list data analytics projects I have worked on.
+
+## Analyzing Factors Affecting E-Commerce Sales and Profitability
+
+**Code:** [E-Commerce Sales Analysis.ipynb]
+
+**Goal:** To analyze various factors affecting sales, profit, and customer behavior in the e-commerce dataset.
+
+**Description:** This project focused on analyzing a dataset of e-commerce transactions, including data on product categories, sales, discounts, shipping costs, and customer demographics. The project involved loading and cleaning the data, performing exploratory data analysis (EDA), analyzing correlations between various features such as discounts, sales, and profit, and implementing hypothesis testing. The analysis also examined the impact of factors like Order Priority and Shipping Cost on profitability.
+
+**Skills**: Data cleaning, exploratory data analysis (EDA), correlation analysis, hypothesis testing, data visualization.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+**Results:** The analysis revealed that Shipping Cost has a strong positive correlation with Profit, suggesting that higher shipping costs are associated with higher profits. Discounts showed a weak positive correlation with Sales, but had no significant impact on Profit. Additionally, Medium Priority orders generated more profit than High Priority orders.
+
+
+
+
+
 
 
 
