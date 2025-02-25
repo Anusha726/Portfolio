@@ -15,8 +15,7 @@ When I’m not analyzing data, I enjoy exploring new tools, learning machine lea
 - **Machine Learning**: Linear Regression, Logistic Regression, K-Means Clustering, and more.
     -  **Libraries**: NumPy, Pandas, Seaborn, Matplotlib, Scikit – learn, etc
 - **Database Management**: MySQL, RDBMS, Metabase, etc.
-- **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, 
-Hypothesis Testing, etc.
+- **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, Hypothesis Testing, etc.
 
 ## 📄 My CV  
 You can view my detailed CV [here](CV.pdf).   
