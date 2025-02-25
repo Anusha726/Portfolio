@@ -58,7 +58,7 @@ You can view my detailed CV [here](CV.pdf).
 
 In this section I will list data analytics projects I have worked on.
 
-## Analyzing Factors Affecting E-Commerce Sales and Profitability
+## Analyzing Factors Affecting E-Commerce Sales and Profitability ##
 
 **Code:** [E-Commerce Sales Analysis.ipynb]
 
