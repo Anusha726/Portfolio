@@ -21,7 +21,7 @@ When I’m not analyzing data, I enjoy exploring new tools, learning machine lea
 You can view my detailed CV [here](CV.pdf).   
 
 ## 📚 Table of Contents  
-1. [About](#about)  
+-  [About](#about)  
 2. [Portfolio Projects](#portfolio-projects)
  
 - Python
