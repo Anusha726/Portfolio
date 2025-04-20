@@ -24,13 +24,13 @@ You can view my detailed CV [here](CV.pdf).
 -  [About](#about)  
 - [Portfolio Projects](#portfolio-projects)
  
-  Python
+  1. Python
    - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
-  SQL
+  2. SQL
    - [SQL](#sql)
-  Excel
+  3. Excel
    - [Excel / Google Sheets](#excel-google-sheets)
-   Power BI
+   4. Power BI
    - [Power BI](#power-bi)
      
 4. [Education](#education)  
