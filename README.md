@@ -25,7 +25,7 @@ You can view my detailed CV [here](CV.pdf).
 - [Portfolio Projects](#portfolio-projects)
  
    - Python
-     [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
+       - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
      
   2) SQL
    - [SQL](#sql)
