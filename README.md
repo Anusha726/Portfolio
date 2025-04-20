@@ -28,11 +28,10 @@ You can view my detailed CV [here](CV.pdf).
        - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
    - SQL
        - [SQL](#sql)
-  
-  3. Excel
-   - [Excel / Google Sheets](#excel-google-sheets)
-   4. Power BI
-   - [Power BI](#power-bi)
+   - Excel
+       - [Excel / Google Sheets](#excel-google-sheets)
+   - Power BI
+       - [Power BI](#power-bi)
      
 4. [Education](#education)  
 5. [Certificates](#certificates)  
