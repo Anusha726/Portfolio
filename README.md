@@ -32,6 +32,9 @@ You can view my detailed CV [here](CV.pdf).
        - [Excel / Google Sheets](#excel-google-sheets)
    - Power BI
        - [Adventure Works Sales & Profit Dashboard](#adventure-works-sales--profit-dashboard)
+   - Tableau
+       - [HR Attrition Rate Analysis](#analyzing-factors-contributing-to-employee-attrition)
+
      
 4. [Education](#education)  
 5. [Certificates](#certificates)  
@@ -92,6 +95,21 @@ In this section I will list data analytics projects I have worked on.
 **Technology:**  Power BI, DAX, Power Query, Data Modeling, AdventureWorks Dataset.
 
 **Results:** The dashboard enabled clear visibility into high-performing regions and products, identified underperforming categories, and helped monitor profit trends over time. It showcased the impact of region-wise performance on company-wide revenue and supported decision-making through dynamic visuals and cross-filtering features.
+
+
+## Analyzing Factors Contributing to Employee Attrition ##
+
+**Code:** [HR Attrition Rate Analysis.ipynb](E.ipynb)
+
+**Goal:** To identify the key factors influencing employee attrition and gain actionable insights to support HR decision-making.
+
+**Description:**  This project explores an HR dataset to analyze employee attrition trends and patterns. Using Tableau, the data was visualized to examine relationships between attrition and features like job role, department, age, monthly income, job satisfaction, work-life balance, and years at the company. The dashboard offers interactive filters and views to help stakeholders explore high-risk groups and drivers of turnover.
+
+**Skills**: Data visualization, dashboard development, HR analytics, interactive reporting, storytelling with data.
+
+**Technology:** Tableau Desktop
+
+**Results:** The analysis showed that younger employees and those with lower monthly income and job satisfaction were more likely to leave. Attrition was notably higher in the Sales department and among those with fewer years at the company. These insights provide a foundation for improving employee retention through targeted HR strategies.
 
 
 
