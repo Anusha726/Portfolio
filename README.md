@@ -25,7 +25,7 @@ You can view my detailed CV [here](CV.pdf).
 2. [Portfolio Projects](#portfolio-projects)
  
 - Python
-   * [Python](#python)  
+   - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#python)  
    - [SQL](#sql)  
    - [Excel / Google Sheets](#excel-google-sheets)  
    - [Power BI](#power-bi)  
