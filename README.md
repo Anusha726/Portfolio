@@ -62,7 +62,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Analyzing Factors Affecting E-Commerce Sales and Profitability ##
 
-**Code:** [here] (E-Commerce.ipynb)
+**Code:** here](E-Commerce.ipynb)
 
 **Goal:** To analyze various factors affecting sales, profit, and customer behavior in the e-commerce dataset.
 
