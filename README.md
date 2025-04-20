@@ -80,8 +80,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Adventure Works Sales & Profit Dashboard ##
 
-**Code:** [Adventure Works Sales & Profit Dashboard.pbix](AdventureWorksDashboard.pbix)
-**Code:** [Download Adventure Works Sales & Profit Dashboard (.pbix)](path/to/AdventureWorksDashboard.pbix)
+**Code:** **Code:** [Download Adventure Works Sales & Profit Dashboard (.pbix)](AdventureWorksDashboard.pbix)
 
 
 **Goal:** To build a comprehensive Power BI dashboard analyzing sales performance, product profitability, and regional trends using the Adventure Works dataset.
