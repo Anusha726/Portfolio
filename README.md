@@ -31,7 +31,7 @@ You can view my detailed CV [here](CV.pdf).
    - Excel
        - [Excel / Google Sheets](#excel-google-sheets)
    - Power BI
-       - [Adventure Works Dashboard](#adventure-works-dashboard)
+       - [Adventure Works Sales & Profit Dashboard](#adventure-works-sales-&-profit-dashboard)
      
 4. [Education](#education)  
 5. [Certificates](#certificates)  
