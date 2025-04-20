@@ -37,7 +37,7 @@ You can view my detailed CV [here](CV.pdf).
 
      
 4. [Education](#education)  
-5. [Certificates](#certificates)  
+5. [Certificates/Courses](#certificates)  
 6. [Connect](#connect)   
 
 ## Education
@@ -47,7 +47,7 @@ You can view my detailed CV [here](CV.pdf).
 - **BSc** - **Computer Science & Mathematics**  
   Bangalore University (2018 - 2021)
 
-## Certificates
+## Certificates/Courses
 - **Business Analytics with Excel:Elementary to Advance**: [Link](https://coursera.org/share/6c0371adbc12b8a082e4f1cde5ee97af)
 - **Analyzing Company Performance using Ratios**: [Link](https://coursera.org/share/a13d26b38a276490c51f50ba23027277)
 - **SQL Advanced Certificate by HackerRank**: [Link](https://www.hackerrank.com/certificates/a3f144dbee88)
