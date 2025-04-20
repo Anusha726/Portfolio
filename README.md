@@ -80,7 +80,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Adventure Works Sales & Profit Dashboard ##
 
-**Code:** [Adventure Works Sales & Profit Dashboard.pbix](Adventure-Works-Dashboard.pbix)
+**Code:** [Adventure Works Sales & Profit Dashboard.pbix](AdventureWorksDashboard.pbix)
 **Code:** [Download Adventure Works Sales & Profit Dashboard (.pbix)](path/to/AdventureWorksDashboard.pbix)
 
 
