@@ -99,7 +99,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Analyzing Factors Contributing to Employee Attrition ##
 
-**Code:** [HR Attrition Rate Analysis.ipynb](E.ipynb)
+**Code:** [HR Attrition Rate Analytics.twbx](HR%20Attrition%20Rate%20Analytics.twbx)
 
 **Goal:** To identify the key factors influencing employee attrition and gain actionable insights to support HR decision-making.
 
