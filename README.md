@@ -22,14 +22,15 @@ You can view my detailed CV [here](CV.pdf).
 
 ## 📚 Table of Contents  
 1. [About](#about)  
-2. [Portfolio Projects](#portfolio-projects)  
+2. [Portfolio Projects](#portfolio-projects)
+   Python
    - [Python](#python)  
    - [SQL](#sql)  
    - [Excel / Google Sheets](#excel-google-sheets)  
    - [Power BI](#power-bi)  
-3. [Education](#education)  
-4. [Certificates](#certificates)  
-5. [Connect](#connect)   
+4. [Education](#education)  
+5. [Certificates](#certificates)  
+6. [Connect](#connect)   
 
 ## Education
 - **MBA** - **Business Analytics & Marketing**  
