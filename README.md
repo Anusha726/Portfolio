@@ -23,8 +23,8 @@ You can view my detailed CV [here](CV.pdf).
 ## 📚 Table of Contents  
 1. [About](#about)  
 2. [Portfolio Projects](#portfolio-projects)
-
-    Python
+ 
+- Python
    - [Python](#python)  
    - [SQL](#sql)  
    - [Excel / Google Sheets](#excel-google-sheets)  
