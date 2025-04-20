@@ -26,9 +26,8 @@ You can view my detailed CV [here](CV.pdf).
  
    - Python
        - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
-     
-  2) SQL
-   - [SQL](#sql)
+   - SQL
+       - [SQL](#sql)
   
   3. Excel
    - [Excel / Google Sheets](#excel-google-sheets)
