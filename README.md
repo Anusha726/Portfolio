@@ -78,6 +78,21 @@ In this section I will list data analytics projects I have worked on.
 
 **Results:** The analysis revealed that Shipping Cost has a strong positive correlation with Profit, suggesting that higher shipping costs are associated with higher profits. Discounts showed a weak positive correlation with Sales, but had no significant impact on Profit. Additionally, Medium Priority orders generated more profit than High Priority orders.
 
+## Adventure Works Sales & Profit Dashboard ##
+
+**Code:** [Adventure Works Dashboard.pbix](E-Commerce.pbix)
+
+**Goal:** To build a comprehensive Power BI dashboard analyzing sales performance, product profitability, and regional trends using the Adventure Works dataset.
+
+**Description:**  This project involves designing an interactive Power BI dashboard using the Adventure Works dataset. It analyzes key metrics such as total sales, profit, quantity sold, and profit margin. The dashboard provides visual insights across product categories, regions, and time periods. Slicers and filters are included to allow dynamic exploration of trends by product sub-category, segment, and region.
+
+**Skills**: Data cleaning, Data modeling, DAX measures, interactive dashboards, KPI tracking, data visualization, drill-through & filters.
+
+**Technology:**  Power BI, DAX, Power Query, Data Modeling, AdventureWorks Dataset.
+
+**Results:** The dashboard enabled clear visibility into high-performing regions and products, identified underperforming categories, and helped monitor profit trends over time. It showcased the impact of region-wise performance on company-wide revenue and supported decision-making through dynamic visuals and cross-filtering features.
+
+
 
 
 
