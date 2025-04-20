@@ -98,8 +98,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Analyzing Factors Contributing to Employee Attrition ##
 
-**Code:** [HR Attrition Rate Analytics.twbx](HR%20Attrition%20Rate%20Analytics.twbx)
-(https://public.tableau.com/app/profile/anusha.j6099/viz/HRAttritionRateAnalytics/HRDashboard)
+**Code:** [HR Attrition Rate Analytics.twbx](https://public.tableau.com/app/profile/anusha.j6099/viz/HRAttritionRateAnalytics/HRDashboard)
 
 **Goal:** To identify the key factors influencing employee attrition and gain actionable insights to support HR decision-making.
 
