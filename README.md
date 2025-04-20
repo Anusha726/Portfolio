@@ -28,12 +28,11 @@ You can view my detailed CV [here](CV.pdf).
        - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
    - SQL
        - [SQL](#sql)
-   - Excel
-       - [Excel / Google Sheets](#excel-google-sheets)
    - Power BI
        - [Adventure Works Sales & Profit Dashboard](#adventure-works-sales--profit-dashboard)
    - Tableau
        - [HR Attrition Rate Analysis](#analyzing-factors-contributing-to-employee-attrition)
+   - Excel/Google Sheets
 
      
 4. [Education](#education)  
