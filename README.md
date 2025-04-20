@@ -66,7 +66,7 @@ In this section I will list data analytics projects I have worked on.
 
 **Goal:** To analyze various factors affecting sales, profit, and customer behavior in the e-commerce dataset.
 
-**Description:** This project focused on analyzing a dataset of e-commerce transactions, including data on product categories, sales, discounts, shipping costs, and customer demographics. The project involved loading and cleaning the data, performing exploratory data analysis (EDA), analyzing correlations between various features such as discounts, sales, and profit, and implementing hypothesis testing. The analysis also examined the impact of factors like Order Priority and Shipping Cost on profitability.
+**Description:**  This project analyzes a dataset of e-commerce transactions to uncover insights into sales performance, profitability, and customer behavior. The dataset includes features like product categories, discounts, shipping costs, and order priorities. The project involved data cleaning, exploratory data analysis (EDA), correlation studies, and hypothesis testing.
 
 **Skills**: Data cleaning, exploratory data analysis (EDA), correlation analysis, hypothesis testing, data visualization.
 
