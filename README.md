@@ -22,15 +22,15 @@ You can view my detailed CV [here](CV.pdf).
 
 ## 📚 Table of Contents  
 -  [About](#about)  
-2. [Portfolio Projects](#portfolio-projects)
+- [Portfolio Projects](#portfolio-projects)
  
-- Python
+  Python
    - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
-- SQL
+  SQL
    - [SQL](#sql)
-- Excel
+  Excel
    - [Excel / Google Sheets](#excel-google-sheets)
- - Power BI
+   Power BI
    - [Power BI](#power-bi)
      
 4. [Education](#education)  
