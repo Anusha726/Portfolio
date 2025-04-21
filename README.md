@@ -114,7 +114,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Employee Database Analysis with SQL ##
 
-**Code:** [Employee Database Analysis with SQL.sql](sql-script--employee.sql)
+**Code:** [Employee Database Analysis with SQL](SQL-Scripts/Employee.sql)
 
 **Goal:** To analyze employee-related data using SQL and answer key business questions for better workforce and project insights.
 
