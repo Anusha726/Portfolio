@@ -44,9 +44,9 @@ You can view my detailed CV [here](CV.pdf).
 - **MBA** - **Business Analytics & Marketing** - 8.4 CGPA  
   Dayananda Sagar University (2021 - 2023)
 
-
-- **BSc** - **Computer Science & Mathematics** - 8.6 CGPA 
+- **BSc** - **Computer Science & Mathematics** - 8.6 CGPA  
   Bangalore University (2018 - 2021)
+
 
 ## Certificates/Courses
 - **Business Analytics with Excel:Elementary to Advance**: [Link](https://coursera.org/share/6c0371adbc12b8a082e4f1cde5ee97af)
