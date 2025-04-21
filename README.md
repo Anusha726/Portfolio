@@ -10,12 +10,13 @@ When I’m not analyzing data, I enjoy exploring new tools, learning machine lea
 
 ## Skills  
 - **Programming**: Python, SQL  
-- **Visualization Tools**: Power BI, Tableau, Looker  
-- **Data Wrangling**: Excel, Google Sheets, Power Query, Python (Pandas & NumPy), Alteryx. 
+- **Visualization Tools**: Power BI, Tableau, Looker(Google Data Studio)  
+- **ETL & Data Wrangling/Pre-Processing**: Excel, Google Sheets, Power Query, Python (Pandas & NumPy), Alteryx.
+- **Data Analysis**: Cohort Analysis, Root Cause Analysis(RCA),Exploratory Data Analysis(EDA). 
 - **Machine Learning**: Linear Regression, Logistic Regression, K-Means Clustering, and more.
     -  **Libraries**: NumPy, Pandas, Seaborn, Matplotlib, Scikit – learn, etc
 - **Database Management**: MySQL, RDBMS, Metabase, etc.
-- **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, Hypothesis Testing, Quantitative Analysis, Cohort Analysis, RCA, etc.
+- **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, Hypothesis Testing, Quantitative Analysis, etc.
 
 ## 📄 My CV  
 You can view my detailed CV [here](CV.pdf).   
