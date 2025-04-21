@@ -27,7 +27,7 @@ You can view my detailed CV [here](CV.pdf).
    - Python
        - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
    - SQL
-       - [SQL](#sql)
+       - [Employee Database Analysis with SQL](#employee-database-analysis-with-sql)
    - Power BI
        - [Adventure Works Sales & Profit Dashboard](#adventure-works-sales--profit-dashboard)
    - Tableau
@@ -81,6 +81,7 @@ In this section I will list data analytics projects I have worked on.
 
 **Results:** The analysis revealed that Shipping Cost has a strong positive correlation with Profit, suggesting that higher shipping costs are associated with higher profits. Discounts showed a weak positive correlation with Sales, but had no significant impact on Profit. Additionally, Medium Priority orders generated more profit than High Priority orders.
 
+
 ## Adventure Works Sales & Profit Dashboard ##
 
 **Code:** [Adventure Works Dashboard.pbix](Adventure%20Works%20Dashboard.pbix)
@@ -111,10 +112,17 @@ In this section I will list data analytics projects I have worked on.
 **Results:** The analysis showed that younger employees and those with lower monthly income and job satisfaction were more likely to leave. Attrition was notably higher in the Sales department and among those with fewer years at the company. These insights provide a foundation for improving employee retention through targeted HR strategies.
 
 
+## Employee Database Analysis with SQL ##
 
+**Code:** [HR Attrition Rate Analytics.twbx](https://public.tableau.com/app/profile/anusha.j6099/viz/HRAttritionRateAnalytics/HRDashboard)
 
+**Goal:** To analyze employee-related data using SQL and answer key business questions for better workforce and project insights.
 
+**Description:**  The dataset contains employee records including department, manager, and project assignments. This project includes data loading, relational schema design, and writing SQL queries to explore department-wise distribution, project assignments, employee-manager relationships, and tenure analysis. It also includes performing exploratory data analysis (EDA) to extract insights using MySQL.
 
+**Skills**: SQL querying, joins, subqueries, window functions, EDA.
+
+**Technology:** MySQL, SQL Workbench, RDBMS.
 
 
 
