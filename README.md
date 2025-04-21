@@ -116,6 +116,7 @@ In this section I will list data analytics projects I have worked on.
 
 **Code:** [Employee Database Analysis with SQL](SQL%20Scripts%20-%20Employee.sql)
 
+
 **Goal:** To analyze employee-related data using SQL and answer key business questions for better workforce and project insights.
 
 **Description:**  The dataset contains employee records including department, manager, and project assignments. This project includes data loading, relational schema design, and writing SQL queries to explore department-wise distribution, project assignments, employee-manager relationships, and tenure analysis. It also includes performing exploratory data analysis (EDA) to extract insights using MySQL.
