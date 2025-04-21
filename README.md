@@ -42,7 +42,7 @@ You can view my detailed CV [here](CV.pdf).
 
 ## Education
 - **MBA** - **Business Analytics & Marketing** - 8.4 CGPA
-         Dayananda Sagar University (2021 - 2023)
+         - Dayananda Sagar University (2021 - 2023)
 
 - **BSc** - **Computer Science & Mathematics** - 8.6 CGPA 
   Bangalore University (2018 - 2021)
