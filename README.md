@@ -114,7 +114,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Employee Database Analysis with SQL ##
 
-**Code:** [HR Attrition Rate Analytics.twbx](https://public.tableau.com/app/profile/anusha.j6099/viz/HRAttritionRateAnalytics/HRDashboard)
+**Code:** [Employee Database Analysis with SQL.sql](sql-script--employee.sql)
 
 **Goal:** To analyze employee-related data using SQL and answer key business questions for better workforce and project insights.
 
