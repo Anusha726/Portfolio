@@ -71,7 +71,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Analyzing Factors Affecting E-Commerce Sales and Profitability ##
 
-**Code:** [E-Commerce Sales Analysis.ipynb](E-Commerce.ipynb)
+**Code:** [E-Commerce Sales Analysis.ipynb](https://github.com/Anusha726/Portfolio-Files/blob/main/E-Commerce.ipynb)
 
 **Goal:** To analyze various factors affecting sales, profit, and customer behavior in the e-commerce dataset.
 
@@ -86,7 +86,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Adventure Works Sales & Profit Dashboard ##
 
-**Code:** [Adventure Works Dashboard.pbix](Adventure%20Works%20Dashboard.pbix)
+**Code:** [Adventure Works Dashboard.pbix](https://github.com/Anusha726/Portfolio-Files/blob/main/Adventure%20Works%20Dashboard.pbix)
 
 **Goal:** To build a comprehensive Power BI dashboard analyzing sales performance, product profitability, and regional trends using the Adventure Works dataset.
 
@@ -116,7 +116,7 @@ In this section I will list data analytics projects I have worked on.
 
 ## Employee Database Analysis with SQL ##
 
-**Code:** [Employee Database Analysis with SQL](https://github.com/Anusha726/Portfolio/blob/main/SQL%20Script%20-%20Employee.sql)
+**Code:** [Employee Database Analysis with SQL](https://github.com/Anusha726/Portfolio-Files/blob/main/SQL%20Script%20-%20Employee.sql)
 
 **Goal:** To analyze employee-related data using SQL and answer key business questions for better workforce and project insights.
 
