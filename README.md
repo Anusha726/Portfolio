@@ -19,7 +19,7 @@ When I’m not analyzing data, I enjoy exploring new tools, learning machine lea
 - **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, Hypothesis Testing, Quantitative Analysis, etc.
 
 ## 📄 My CV  
-You can view my detailed CV [here](CV.pdf).   
+You can view my detailed CV [here](https://github.com/Anusha726/Portfolio-Files/blob/main/Resume%20-%20Anusha%20J.pdf).   
 
 ## 📚 Table of Contents  
 -  [About](#about)  
